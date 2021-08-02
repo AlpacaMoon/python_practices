@@ -1,0 +1,1 @@
+"C:\Users\USER\AppData\Local\Programs\Python\Python37\python.exe"  "D:\Documents\Python\tasks\diaryPreset.py"
